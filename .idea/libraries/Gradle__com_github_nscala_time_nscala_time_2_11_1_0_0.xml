@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.nscala-time:nscala-time_2.11:1.0.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.nscala-time/nscala-time_2.11/1.0.0/cf938332c93e52b0f94ffc829457bb475df8a181/nscala-time_2.11-1.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.nscala-time/nscala-time_2.11/1.0.0/e8759ad9e003497f7f7d16d6f5bc348edf2798dd/nscala-time_2.11-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

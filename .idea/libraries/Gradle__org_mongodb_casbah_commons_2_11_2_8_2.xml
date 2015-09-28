@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.mongodb:casbah-commons_2.11:2.8.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mongodb/casbah-commons_2.11/2.8.2/3c100a9b4c2f991e47603fc35feaa45efee8818b/casbah-commons_2.11-2.8.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.mongodb/casbah-commons_2.11/2.8.2/9b4c3adfcdd12ea1f70e14106b6340b60c1a4bee/casbah-commons_2.11-2.8.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

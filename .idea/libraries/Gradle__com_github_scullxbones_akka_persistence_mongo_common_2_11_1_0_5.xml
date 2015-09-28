@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.scullxbones:akka-persistence-mongo-common_2.11:1.0.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.scullxbones/akka-persistence-mongo-common_2.11/1.0.5/7bdb166297af59f8a325ce1385272310f2d4e62e/akka-persistence-mongo-common_2.11-1.0.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.scullxbones/akka-persistence-mongo-common_2.11/1.0.5/f54bfe6bd3e8eba78b12d721919f015aaa68ead6/akka-persistence-mongo-common_2.11-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

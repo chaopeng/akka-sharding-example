@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: nl.grons:metrics-scala_2.11:3.5.1_a2.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/nl.grons/metrics-scala_2.11/3.5.1_a2.3/fea2d393aa8f819f8d3f79a050c438ed180135e3/metrics-scala_2.11-3.5.1_a2.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/nl.grons/metrics-scala_2.11/3.5.1_a2.3/e28807d5e27c64830ebde76a24da9a9c461919ee/metrics-scala_2.11-3.5.1_a2.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
